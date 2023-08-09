@@ -10,11 +10,11 @@
 ### Languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-![python](https://img.shields.io/badge/python-c51b8a?style=for-the-badge&logo=r&logoColor=white)
+![python](https://img.shields.io/badge/python-c51b8a?style=for-the-badge&logo=p&logoColor=white)
 
-![CSS](https://img.shields.io/badge/CSS-c3182bd?style=for-the-badge&logo=r&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-c3182bd?style=for-the-badge&logo=c&logoColor=white)
 
-![HTML](https://img.shields.io/badge/HTML-8856a7?style=for-the-badge&logo=r&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-8856a7?style=for-the-badge&logo=h&logoColor=white)
 
 
 
