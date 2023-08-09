@@ -5,5 +5,5 @@
 </div>
 
 
- I’m currently working on some R-rated content (R-language). I am an aspiring lawyer who loves singing and aacting and travelling.
+ I’m currently working on some R-rated content (R-language). I am an aspiring lawyer who loves singing and acting and travelling.
  
