@@ -14,5 +14,9 @@
 
 ![CSS](https://img.shields.io/badge/CSS-c3182bd?style=for-the-badge&logo=r&logoColor=white)
 
+![HTML](https://img.shields.io/badge/HTML-8856a7?style=for-the-badge&logo=r&logoColor=white)
+
+
+
 
 
