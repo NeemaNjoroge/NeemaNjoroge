@@ -12,7 +12,7 @@
 
 ![python](https://img.shields.io/badge/python-c51b8a?style=for-the-badge&logo=p&logoColor=white)
 
-![CSS](https://img.shields.io/badge/CSS-c3182bd?style=for-the-badge&logo=c&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-c3182bd?style=for-the-badge&logo=&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/HTML-8856a7?style=for-the-badge&logo=h&logoColor=white)
 
