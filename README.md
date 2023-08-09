@@ -16,7 +16,8 @@
 
 ![HTML](https://img.shields.io/badge/HTML-8856a7?style=for-the-badge&logo=h&logoColor=white)
 
-
+### OS
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 
